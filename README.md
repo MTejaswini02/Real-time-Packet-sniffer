@@ -6,7 +6,7 @@ The Packet Sniffer Tool is a network monitoring utility designed for capturing, 
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/G-r0ute/Real-time-Packet-sniffer.git
+   https://github.com/MTejaswini02/Real-time-Packet-sniffer.git
 
 
 ## Features
